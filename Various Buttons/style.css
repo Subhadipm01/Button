@@ -1,0 +1,84 @@
+.B{
+    background-color: #343434;
+}
+
+
+
+
+.M{
+    text-align: center;
+    padding-top: 10px;
+
+}
+.button1{
+    padding-left:70px;
+    padding-right:70px;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-top: 50px;
+    border-radius: 20px 6px;
+    cursor: pointer;
+    background: linear-gradient(to right,#33FF93,#343434);
+}
+.button1:hover{
+
+    background-color:#4CAF50;
+
+}
+
+
+
+
+.N{
+    text-align: center;
+    padding-top: -10px;
+}
+.button2{
+    padding-left:70px;
+    padding-right:70px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-top:50px;
+    border-radius:30px 30px;
+    cursor: grab;
+    background:linear-gradient(to right,#77ff,#66ff77,#77ff);
+}
+.sub:hover{
+    background-color:#999000;
+
+}
+
+
+
+
+
+.O{
+    text-align: center;
+    padding-top: 40px;
+}
+.button3{
+    padding-left:70px;
+    padding-right:70px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-top:50px;
+    border-radius:10px 30px;
+    cursor:cell;
+    background:linear-gradient(to right,#999000,#66ff77,#555777);
+   
+}
+.P{
+text-align: center;
+padding-top:5%;
+}
+
+.button4{
+    padding-left:70px;
+    padding-right:70px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:dashed green;
+    border-width:4px ;
+    border-radius: 20px 30px 20px 30px;
+
+}
